@@ -42,3 +42,16 @@ My Data Structures &amp; Algorithms journey in Python. Daily practice and LeetCo
 
 - Time Complexity: O(n)
 - Space Complexity: O(1)
+
+- ### 4. Minimum Element
+
+- Platform: Custom
+- Topic: Array
+- Difficulty: Easy
+- Approach: Linear Traversal
+- Description:
+  - Find the smallest element in an array.
+  - Traverse the array and keep updating the minimum value.
+
+- Time Complexity: O(n)
+- Space Complexity: O(1)
