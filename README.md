@@ -55,3 +55,15 @@ My Data Structures &amp; Algorithms journey in Python. Daily practice and LeetCo
 
 - Time Complexity: O(n)
 - Space Complexity: O(1)
+
+- 
+- ### 5.- Count Even Numbers
+
+- Topic: Array
+- Difficulty: Easy
+- Approach: Traversal
+- Description:
+        - Count the number of even elements    in the given array.
+
+- Time Complexity: O(n)
+- Space Complexity: O(1)
