@@ -82,7 +82,7 @@ My Data Structures &amp; Algorithms journey in Python. Daily practice and LeetCo
 - Approach: Traversal
 
 - Description:
-         Count the total number of odd elements present in the given array.
+         - Count the total number of odd elements present in the given array.
 
 - Time Complexity: O(n)
 
