@@ -67,3 +67,23 @@ My Data Structures &amp; Algorithms journey in Python. Daily practice and LeetCo
 
 - Time Complexity: O(n)
 - Space Complexity: O(1)
+
+
+- ### 6.- Count Odd Numbers
+- 
+  
+
+- Platform: Custom Practice
+
+- Topic: Array
+
+- Difficulty: Easy
+
+- Approach: Traversal
+
+- Description:
+         Count the total number of odd elements present in the given array.
+
+- Time Complexity: O(n)
+
+- Space Complexity: O(1)
