@@ -88,7 +88,7 @@ My Data Structures &amp; Algorithms journey in Python. Daily practice and LeetCo
 
 - Space Complexity: O(1)
 
-- ### 6.- Reverse Array
+- ### 7.- Reverse Array
   
 - Platform : DSA Practice
 
