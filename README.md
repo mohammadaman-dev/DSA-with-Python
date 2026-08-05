@@ -87,3 +87,23 @@ My Data Structures &amp; Algorithms journey in Python. Daily practice and LeetCo
 - Time Complexity: O(n)
 
 - Space Complexity: O(1)
+
+- ### 6.- Reverse Array
+  
+- Platform : DSA Practice
+
+- Topic: Array
+
+- Difficulty: Easy
+
+- Approach: Two Pointers
+
+- Description:
+
+Reverse the elements of an array in-place without using any extra array.
+Use two pointers, one at the beginning and one at the end of the array. Swap the elements and move both pointers toward the center until they meet.
+
+- Time Complexity: O(n)
+
+- Space Complexity: O(1)
+
